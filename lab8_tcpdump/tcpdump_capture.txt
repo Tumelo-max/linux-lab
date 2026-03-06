@@ -1,0 +1,20 @@
+12:54:15.789933 IP 172.18.160.107.34541 > prod-ntp-4.ntp1.ps5.canonical.com.ntp: NTPv4, Client, length 48
+12:54:16.049978 IP prod-ntp-4.ntp1.ps5.canonical.com.ntp > 172.18.160.107.34541: NTPv4, Server, length 48
+12:54:22.222849 ARP, Request who-has 172.18.160.107 (00:15:5d:df:48:25 (oui Unknown)) tell LuNgoma.mshome.net, length 28
+12:54:22.224854 ARP, Reply 172.18.160.107 is-at 00:15:5d:df:48:25 (oui Unknown), length 28
+12:54:50.012472 IP 172.18.160.107.45772 > prod-ntp-4.ntp1.ps5.canonical.com.ntp: NTPv4, Client, length 48
+12:54:50.258678 IP prod-ntp-4.ntp1.ps5.canonical.com.ntp > 172.18.160.107.45772: NTPv4, Server, length 48
+12:54:55.427888 ARP, Request who-has 172.18.160.107 (00:15:5d:df:48:25 (oui Unknown)) tell LuNgoma.mshome.net, length 28
+12:54:55.427938 ARP, Reply 172.18.160.107 is-at 00:15:5d:df:48:25 (oui Unknown), length 28
+12:54:56.109692 ARP, Request who-has LuNgoma.mshome.net tell 172.18.160.107, length 28
+12:54:56.110048 ARP, Reply LuNgoma.mshome.net is-at 00:15:5d:55:90:01 (oui Unknown), length 28
+12:55:04.061562 IP LuNgoma.mshome.net.mdns > mdns.mcast.net.mdns: 0 SRV (QM)? SWTV-22AE-4K-9a5278b0e93ea1a4128c5d83e83bc9a8._googlecast._tcp.local. (86)
+12:55:04.063419 IP6 fe80::ff53:70e2:d3ac:d16.mdns > ff02::fb.mdns: 0 SRV (QM)? SWTV-22AE-4K-9a5278b0e93ea1a4128c5d83e83bc9a8._googlecast._tcp.local. (86)
+12:55:04.066727 IP LuNgoma.mshome.net.mdns > mdns.mcast.net.mdns: 0 SRV (QM)? SWTV-7d84401c111afe94432d4630805b21ce._googlecast._tcp.local. (78)
+12:55:04.067830 IP6 fe80::ff53:70e2:d3ac:d16.mdns > ff02::fb.mdns: 0 SRV (QM)? SWTV-7d84401c111afe94432d4630805b21ce._googlecast._tcp.local. (78)
+12:55:04.072842 IP LuNgoma.mshome.net.mdns > mdns.mcast.net.mdns: 0 SRV (QM)? SWTV-24AE-FHD-c1981b8088638a7f42a0762f165ec7c9._googlecast._tcp.local. (87)
+12:55:04.074194 IP6 fe80::ff53:70e2:d3ac:d16.mdns > ff02::fb.mdns: 0 SRV (QM)? SWTV-24AE-FHD-c1981b8088638a7f42a0762f165ec7c9._googlecast._tcp.local. (87)
+12:55:23.259396 IP 172.18.160.107.53045 > prod-ntp-4.ntp1.ps5.canonical.com.ntp: NTPv4, Client, length 48
+12:55:23.484200 IP prod-ntp-4.ntp1.ps5.canonical.com.ntp > 172.18.160.107.53045: NTPv4, Server, length 48
+12:55:29.762795 ARP, Request who-has 172.18.160.107 (00:15:5d:df:48:25 (oui Unknown)) tell LuNgoma.mshome.net, length 28
+12:55:29.762855 ARP, Reply 172.18.160.107 is-at 00:15:5d:df:48:25 (oui Unknown), length 28
