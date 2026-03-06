@@ -510,3 +510,12 @@
 [80654.126721] WSL (9634 - CaptureCrash): Capturing crash for pid: 3454, executable: !usr!bin!weston, signal: 11, port: 50005
 [81126.174158] WSL (240) ERROR: CheckConnection: getaddrinfo() failed: -5
 [81536.362693] mini_init (224): drop_caches: 1
+[84685.740362] mini_init (224): drop_caches: 1
+[84796.516325] Bluetooth: Core ver 2.22
+[84796.518624] NET: Registered PF_BLUETOOTH protocol family
+[84796.519851] Bluetooth: HCI device and connection manager initialized
+[84796.520390] Bluetooth: HCI socket layer initialized
+[84796.520398] Bluetooth: L2CAP socket layer initialized
+[84796.520483] Bluetooth: SCO socket layer initialized
+[84796.645729] hv_netvsc 1007e2cb-1e99-41a9-bb92-2213e61b5e32 eth0: entered promiscuous mode
+[84879.623336] hv_netvsc 1007e2cb-1e99-41a9-bb92-2213e61b5e32 eth0: left promiscuous mode
