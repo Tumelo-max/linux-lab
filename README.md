@@ -701,3 +701,53 @@ PING google.com (142.251.216.14) 56(84) bytes of data.
 --- google.com ping statistics ---
 4 packets transmitted, 4 received, 0% packet loss, time 3166ms
 rtt min/avg/max/mdev = 8.121/31.133/89.647/34.000 ms
+
+## Lab 2 Outputs
+==============================
+
+--- ss_results.txt ---
+Netid State  Recv-Q Send-Q  Local Address:Port Peer Address:PortProcess
+udp   UNCONN 0      0           127.0.0.1:323       0.0.0.0:*          
+udp   UNCONN 0      0          127.0.0.54:53        0.0.0.0:*          
+udp   UNCONN 0      0       127.0.0.53%lo:53        0.0.0.0:*          
+udp   UNCONN 0      0      10.255.255.254:53        0.0.0.0:*          
+udp   UNCONN 0      0               [::1]:323          [::]:*          
+tcp   LISTEN 0      4096       127.0.0.54:53        0.0.0.0:*          
+tcp   LISTEN 0      1000   10.255.255.254:53        0.0.0.0:*          
+tcp   LISTEN 0      4096    127.0.0.53%lo:53        0.0.0.0:*          
+
+--- netstat_results.txt ---
+(Not all processes could be identified, non-owned process info
+ will not be shown, you would have to be root to see it all.)
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 127.0.0.54:53           0.0.0.0:*               LISTEN      -                   
+tcp        0      0 10.255.255.254:53       0.0.0.0:*               LISTEN      -                   
+tcp        0      0 127.0.0.53:53           0.0.0.0:*               LISTEN      -                   
+udp        0      0 127.0.0.1:323           0.0.0.0:*                           -                   
+udp        0      0 127.0.0.54:53           0.0.0.0:*                           -                   
+udp        0      0 127.0.0.53:53           0.0.0.0:*                           -                   
+udp        0      0 10.255.255.254:53       0.0.0.0:*                           -                   
+udp6       0      0 ::1:323                 :::*                                -                   
+
+--- traceroute_google_results.txt ---
+traceroute to google.com (142.251.216.14), 30 hops max, 60 byte packets
+ 1  LuNgoma.mshome.net (172.18.160.1)  0.485 ms  0.446 ms  0.292 ms
+ 2  localhost (10.0.0.2)  2.811 ms  2.740 ms  2.682 ms
+ 3  wwg-ip-bng-2.south.dsl.telkomsa.net (105.228.20.1)  6.472 ms  6.444 ms  6.101 ms
+ 4  105-187-235-230.telkomsa.net (105.187.235.230)  10.335 ms  10.328 ms  10.040 ms
+ 5  105-187-235-94.telkomsa.net (105.187.235.94)  9.897 ms  9.807 ms  7.828 ms
+ 6  142.251.53.107 (142.251.53.107)  9.012 ms  8.748 ms 192.178.97.57 (192.178.97.57)  8.100 ms
+ 7  192.178.73.133 (192.178.73.133)  9.622 ms 192.178.73.131 (192.178.73.131)  9.619 ms  9.535 ms
+ 8  lcjnbi-af-in-f14.1e100.net (142.251.216.14)  7.997 ms  7.904 ms  8.424 ms
+
+--- ping_google_results.txt ---
+PING google.com (142.251.216.14) 56(84) bytes of data.
+64 bytes from lcjnbi-af-in-f14.1e100.net (142.251.216.14): icmp_seq=1 ttl=117 time=89.6 ms
+64 bytes from lcjnbi-af-in-f14.1e100.net (142.251.216.14): icmp_seq=2 ttl=117 time=17.9 ms
+64 bytes from lcjnbi-af-in-f14.1e100.net (142.251.216.14): icmp_seq=3 ttl=117 time=8.88 ms
+64 bytes from lcjnbi-af-in-f14.1e100.net (142.251.216.14): icmp_seq=4 ttl=117 time=8.12 ms
+
+--- google.com ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3166ms
+rtt min/avg/max/mdev = 8.121/31.133/89.647/34.000 ms
