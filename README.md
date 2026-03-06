@@ -1,4 +1,10 @@
-# Linux, Networking & Cybersecurity Labs
+# Tumelo Ngoma – Linux & Cybersecurity Portfolio
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Active-red)
+
+This portfolio showcases my Linux, networking, and cybersecurity labs, including packet analysis, system monitoring, and Python automation.# Linux, Networking & Cybersecurity Labs
 
 This repository contains hands-on labs demonstrating my learning journey in:
 
