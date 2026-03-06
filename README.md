@@ -1,4 +1,296 @@
-# Linux & Networking Labs Portfolio
+# Linux, Networking & Cybersecurity Labs
+
+This repository contains hands-on labs demonstrating my learning journey in:
+
+• Linux Administration  
+• Networking Fundamentals  
+• Cybersecurity Concepts  
+• Python Automation  
+• Cloud Infrastructure Foundations  
+
+These labs are part of my transition into **Cloud Engineering and Cybersecurity**.
+
+---
+
+# Lab Portfolio
+
+## Lab 1 – Network Connectivity
+
+Commands used:
+
+ping google.com  
+traceroute google.com  
+netstat -tulnp  
+ss -tulnp  
+
+Purpose:
+
+Understand network connectivity and packet routing.
+
+---
+
+## Lab 2 – DNS Investigation
+
+Commands used:
+
+dig google.com  
+nslookup google.com  
+
+Purpose:
+
+Understand how domain names resolve to IP addresses.
+
+---
+
+## Lab 3 – Linux File System
+
+Commands used:
+
+ls  
+pwd  
+find  
+
+Purpose:
+
+Understanding file navigation and discovery.
+
+---
+
+## Lab 4 – File Permissions
+
+Commands used:
+
+chmod  
+chown  
+
+Purpose:
+
+Learning Linux security permissions and ownership.
+
+---
+
+## Lab 5 – Process Monitoring
+
+Commands used:
+
+ps  
+top  
+kill  
+
+Purpose:
+
+Understanding system processes and resource management.
+
+---
+
+## Lab 6 – System Monitoring
+
+Commands used:
+
+top  
+df -h  
+free -h  
+ps aux  
+
+Purpose:
+
+Monitoring CPU, memory and disk usage in Linux environments.
+
+---
+
+## Lab 7 – Network Port Scanning
+
+Tool used:
+
+nmap
+
+Purpose:
+
+Identify open network ports and understand network reconnaissance.
+
+---
+
+## Lab 8 – Python Log Analyzer
+
+Python script used to analyze Linux system logs.
+
+Purpose:
+
+Combine Python automation with Linux administration tasks.
+
+---
+
+## Previous Data Center Lab
+
+Teraco Data Centre related learning and exercises.
+
+---
+
+# Technologies Used
+
+Linux  
+Python  
+Networking Tools  
+Git & GitHub  
+Cybersecurity Fundamentals  
+
+---
+
+# Author
+
+Tumelo Ngoma
+
+Technical Project Manager | Logical Analyst  
+Cybersecurity & Cloud Engineering Journey
+
+GitHub:# Linux, Networking & Cybersecurity Labs
+
+This repository contains hands-on labs demonstrating my learning journey in:
+
+• Linux Administration  
+• Networking Fundamentals  
+• Cybersecurity Concepts  
+• Python Automation  
+• Cloud Infrastructure Foundations  
+
+These labs are part of my transition into **Cloud Engineering and Cybersecurity**.
+
+---
+
+# Lab Portfolio
+
+## Lab 1 – Network Connectivity
+
+Commands used:
+
+ping google.com  
+traceroute google.com  
+netstat -tulnp  
+ss -tulnp  
+
+Purpose:
+
+Understand network connectivity and packet routing.
+
+---
+
+## Lab 2 – DNS Investigation
+
+Commands used:
+
+dig google.com  
+nslookup google.com  
+
+Purpose:
+
+Understand how domain names resolve to IP addresses.
+
+---
+
+## Lab 3 – Linux File System
+
+Commands used:
+
+ls  
+pwd  
+find  
+
+Purpose:
+
+Understanding file navigation and discovery.
+
+---
+
+## Lab 4 – File Permissions
+
+Commands used:
+
+chmod  
+chown  
+
+Purpose:
+
+Learning Linux security permissions and ownership.
+
+---
+
+## Lab 5 – Process Monitoring
+
+Commands used:
+
+ps  
+top  
+kill  
+
+Purpose:
+
+Understanding system processes and resource management.
+
+---
+
+## Lab 6 – System Monitoring
+
+Commands used:
+
+top  
+df -h  
+free -h  
+ps aux  
+
+Purpose:
+
+Monitoring CPU, memory and disk usage in Linux environments.
+
+---
+
+## Lab 7 – Network Port Scanning
+
+Tool used:
+
+nmap
+
+Purpose:
+
+Identify open network ports and understand network reconnaissance.
+
+---
+
+## Lab 8 – Python Log Analyzer
+
+Python script used to analyze Linux system logs.
+
+Purpose:
+
+Combine Python automation with Linux administration tasks.
+
+---
+
+## Previous Data Center Lab
+
+Teraco Data Centre related learning and exercises.
+
+---
+
+# Technologies Used
+
+Linux  
+Python  
+Networking Tools  
+Git & GitHub  
+Cybersecurity Fundamentals  
+
+---
+
+# Author
+
+Tumelo Ngoma
+
+Technical Project Manager | Logical Analyst  
+Cybersecurity & Cloud Engineering Journey
+
+GitHub:
+https://github.com/Tumelo-max
+https://github.com/Tumelo-max# Linux & Networking Labs Portfolio
 
 Linux & Networking Lab Summary
 ========================================
