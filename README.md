@@ -3,6 +3,112 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Active-red)
+![Cloud](https://img.shields.io/badge/Cloud-Journey-green)
+
+I am an innovative Project Manager & Logical Analyst with 5+ years’ experience leading end-to-end logistics and systems projects for global brands including HP, BMW, Hyundai, Bayer, and Kimberly-Clark.
+
+This portfolio showcases my hands-on **Linux, networking, and cybersecurity labs**, including packet analysis, system monitoring, Python automation, and cloud-related experiments.
+
+---
+
+## 📂 Labs
+
+### Lab 1 – Basic Linux Commands
+- `ping google.com` → connectivity test  
+- `traceroute google.com` → packet route trace  
+- `netstat -tulnp` → listening ports & processes  
+- `ss -tulnp` → modern alternative to netstat  
+
+**Outputs:** `ping_results.txt`, `traceroute_results.txt`, `netstat_results.txt`, `ss_results.txt`
+
+---
+
+### Lab 2 – DNS & Network Analysis
+- `dig google.com` → DNS lookup  
+- `nslookup google.com` → check DNS server  
+- `traceroute` & `ping` repeated for comparison  
+
+**Outputs:** `dig_results.txt`, `nslookup_results.txt`
+
+---
+
+### Lab 3 – File & Permissions
+- `ls -l` → detailed directory listing  
+- `find . -type f -name "*.txt"` → search for files  
+- `chmod` & `chown` → change file permissions & ownership  
+
+**Outputs:** `ls_results.txt`, `find_results.txt`
+
+---
+
+### Lab 4 – System Monitoring
+- `top` / `htop` → live process monitoring  
+- `df -h` → disk usage  
+- `free -h` → memory usage  
+
+**Outputs:** `system_monitoring.txt`
+
+---
+
+### Lab 5 – User & Process Management
+- `who` / `w` → users logged in  
+- `ps aux` → list all processes  
+- `kill` / `pkill` → terminate processes  
+
+**Outputs:** `user_process.txt`
+
+---
+
+### Lab 6 – Network Scanning
+- `nmap` → open ports and services  
+- `netstat` & `ss` → network connections  
+
+**Outputs:** `nmap_results.txt`, `network_scan.txt`
+
+---
+
+### Lab 7 – Port Scanning & Security
+- `nmap -sS` → SYN scan  
+- `tcpdump` → live packet capture  
+
+**Outputs:** `port_scan.txt`, `tcpdump_results.txt`
+
+---
+
+### Lab 8 – Log Analysis
+- `log_analyzer.py` → Python script analyzing system logs  
+- `log_results.txt` → output file of errors found  
+
+**Outputs:** `log_results.txt`, `system_logs.txt`
+
+---
+
+### Previous Experience – Teraco Lab
+- Data center observations & lab exercises from Teraco experience  
+- Networking & Linux experiments  
+
+**Outputs:** `teraco_lab/*`
+
+---
+
+## 🛠 Skills Demonstrated
+- Linux system administration & networking  
+- Python scripting & log analysis  
+- Packet capture & traffic inspection  
+- System monitoring & process management  
+- Git, GitHub, and portfolio automation  
+
+---
+
+## 📌 GitHub
+[View my full Linux & Cybersecurity Portfolio](https://github.com/Tumelo-max)
+
+---
+# Tumelo Ngoma – Linux & Cybersecurity Portfolio
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Active-red)
 
 This portfolio showcases my Linux, networking, and cybersecurity labs, including packet analysis, system monitoring, and Python automation.# Linux, Networking & Cybersecurity Labs
 
