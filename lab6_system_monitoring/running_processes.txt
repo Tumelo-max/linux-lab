@@ -1,0 +1,25 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.3  21832 12616 ?        Ss   Mar05   0:31 /sbin/init
+root           2  0.0  0.0   3120  2048 ?        Sl   Mar05   0:00 /init
+root           6  0.0  0.0   3136  1892 ?        Sl   Mar05   0:00 plan9 --control-socket 7 --log-level 4 --server-fd 8 --pipe-fd 10 --log-truncate
+root          42  0.0  0.4  50428 16896 ?        S<s  Mar05   0:27 /usr/lib/systemd/systemd-journald
+root          88  0.0  0.1  25144  6272 ?        Ss   Mar05   0:22 /usr/lib/systemd/systemd-udevd
+systemd+     104  0.0  0.3  21460 13056 ?        Ss   Mar05   0:06 /usr/lib/systemd/systemd-resolved
+systemd+     105  0.0  0.2  91028  7808 ?        Ssl  Mar05   0:15 /usr/lib/systemd/systemd-timesyncd
+root         154  0.0  0.0   4236  2560 ?        Ss   Mar05   0:02 /usr/sbin/cron -f -P
+message+     155  0.0  0.1   9804  5120 ?        Ss   Mar05   0:07 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         162  0.0  0.2  17964  8448 ?        Ss   Mar05   0:05 /usr/lib/systemd/systemd-logind
+root         170  0.0  0.0   3160  2048 hvc0     Ss+  Mar05   0:00 /sbin/agetty -o -p -- \u --noclear --keep-baud - 115200,38400,9600 vt220
+root         190  0.0  0.0   3116  1920 tty1     Ss+  Mar05   0:00 /sbin/agetty -o -p -- \u --noclear - linux
+root         191  0.0  0.5 107012 22272 ?        Ssl  Mar05   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root         268  0.0  0.0   3124   768 ?        Ss   Mar05   0:00 /init
+root         282  0.0  0.0   3140  1152 ?        S    Mar05   0:00 /init
+tumelo       283  0.0  0.1   6184  5256 pts/0    Ss   Mar05   0:03 -bash
+root         451  0.0  0.1   6692  4736 pts/1    Ss   Mar05   0:00 /bin/login -f
+tumelo       497  0.0  0.2  20312 11264 ?        Ss   Mar05   0:03 /usr/lib/systemd/systemd --user
+tumelo       498  0.0  0.0  21152  3516 ?        S    Mar05   0:00 (sd-pam)
+tumelo       527  0.0  0.1   6056  5120 pts/1    S+   Mar05   0:00 -bash
+polkitd      879  0.0  0.2 308164  7680 ?        Ssl  Mar05   0:04 /usr/lib/polkit-1/polkitd --no-debug
+syslog      1337  0.0  0.1 222508  5376 ?        Ssl  Mar05   0:04 /usr/sbin/rsyslogd -n -iNONE
+tumelo      3072  0.0  0.1   9424  4992 ?        Ss   Mar05   0:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+tumelo      7704  266  0.1   8280  4224 pts/0    R+   11:41   0:00 ps aux
