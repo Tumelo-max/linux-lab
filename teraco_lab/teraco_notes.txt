@@ -1,0 +1,19 @@
+Teraco Data Center Lab
+
+This lab is based on my previous learning about data center infrastructure.
+
+Topics covered:
+- Data center networking
+- Fiber connectivity
+- Structured cabling
+- Network redundancy
+- Data center security
+
+Key Concepts:
+
+1. Fiber optic cables are used for long distance high-speed connections.
+2. Copper cables are used inside buildings.
+3. Data centers use redundant power and cooling systems.
+4. Network switches connect servers within the rack.
+
+This lab demonstrates understanding of data center networking environments.
