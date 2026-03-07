@@ -1,0 +1,50 @@
+14:05:38.743127 eth0  Out IP 172.18.160.107.36123 > prod-ntp-4.ntp1.ps5.canonical.com.ntp: NTPv4, Client, length 48
+14:05:39.004574 eth0  In  IP prod-ntp-4.ntp1.ps5.canonical.com.ntp > 172.18.160.107.36123: NTPv4, Server, length 48
+14:06:14.137510 eth0  Out IP 172.18.160.107.51391 > prod-ntp-4.ntp1.ps5.canonical.com.ntp: NTPv4, Client, length 48
+14:06:14.366032 eth0  In  IP prod-ntp-4.ntp1.ps5.canonical.com.ntp > 172.18.160.107.51391: NTPv4, Server, length 48
+14:06:21.824782 eth0  In  ARP, Request who-has 172.18.160.107 (00:15:5d:c6:5c:b1 (oui Unknown)) tell LuNgoma.mshome.net, length 28
+14:06:21.824806 eth0  Out ARP, Reply 172.18.160.107 is-at 00:15:5d:c6:5c:b1 (oui Unknown), length 28
+14:06:22.277692 eth0  Out ARP, Request who-has LuNgoma.mshome.net tell 172.18.160.107, length 28
+14:06:22.277865 eth0  In  ARP, Reply LuNgoma.mshome.net is-at 00:15:5d:4c:83:21 (oui Unknown), length 28
+14:06:49.349806 eth0  Out IP 172.18.160.107.60438 > prod-ntp-4.ntp1.ps5.canonical.com.ntp: NTPv4, Client, length 48
+14:06:49.512470 eth0  In  IP prod-ntp-4.ntp1.ps5.canonical.com.ntp > 172.18.160.107.60438: NTPv4, Server, length 48
+14:06:57.495766 eth0  Out ARP, Request who-has LuNgoma.mshome.net tell 172.18.160.107, length 28
+14:06:57.496419 eth0  In  ARP, Reply LuNgoma.mshome.net is-at 00:15:5d:4c:83:21 (oui Unknown), length 28
+14:07:24.561731 eth0  Out IP 172.18.160.107.47346 > prod-ntp-4.ntp1.ps5.canonical.com.ntp: NTPv4, Client, length 48
+14:07:24.770208 eth0  In  IP prod-ntp-4.ntp1.ps5.canonical.com.ntp > 172.18.160.107.47346: NTPv4, Server, length 48
+14:07:31.868390 eth0  In  ARP, Request who-has 172.18.160.107 (00:15:5d:c6:5c:b1 (oui Unknown)) tell LuNgoma.mshome.net, length 28
+14:07:31.868411 eth0  Out ARP, Reply 172.18.160.107 is-at 00:15:5d:c6:5c:b1 (oui Unknown), length 28
+14:07:32.661735 eth0  Out ARP, Request who-has LuNgoma.mshome.net tell 172.18.160.107, length 28
+14:07:32.662262 eth0  In  ARP, Reply LuNgoma.mshome.net is-at 00:15:5d:4c:83:21 (oui Unknown), length 28
+14:07:59.720757 eth0  Out IP 172.18.160.107.32998 > prod-ntp-4.ntp1.ps5.canonical.com.ntp: NTPv4, Client, length 48
+14:07:59.930113 eth0  In  IP prod-ntp-4.ntp1.ps5.canonical.com.ntp > 172.18.160.107.32998: NTPv4, Server, length 48
+14:08:07.849586 eth0  Out ARP, Request who-has LuNgoma.mshome.net tell 172.18.160.107, length 28
+14:08:07.849793 eth0  In  ARP, Reply LuNgoma.mshome.net is-at 00:15:5d:4c:83:21 (oui Unknown), length 28
+14:08:18.554982 eth0  M   IP LuNgoma.mshome.net.mdns > mdns.mcast.net.mdns: 0 A (QM)? wpad.local. (28)
+14:08:18.556747 eth0  M   IP6 fe80::46c1:23c9:4ebc:e1d7.mdns > ff02::fb.mdns: 0 A (QM)? wpad.local. (28)
+14:08:18.939306 eth0  M   IP LuNgoma.mshome.net.mdns > mdns.mcast.net.mdns: 0 A (QM)? wpad.local. (28)
+14:08:18.940042 eth0  M   IP6 fe80::46c1:23c9:4ebc:e1d7.mdns > ff02::fb.mdns: 0 A (QM)? wpad.local. (28)
+14:08:19.321745 eth0  M   IP LuNgoma.mshome.net.mdns > mdns.mcast.net.mdns: 0 A (QM)? wpad.local. (28)
+14:08:19.322922 eth0  M   IP6 fe80::46c1:23c9:4ebc:e1d7.mdns > ff02::fb.mdns: 0 A (QM)? wpad.local. (28)
+14:08:21.032328 eth0  M   IP LuNgoma.mshome.net.mdns > mdns.mcast.net.mdns: 0 A (QM)? wpad.local. (28)
+14:08:21.033823 eth0  M   IP6 fe80::46c1:23c9:4ebc:e1d7.mdns > ff02::fb.mdns: 0 A (QM)? wpad.local. (28)
+14:08:21.035521 eth0  M   IP LuNgoma.mshome.net.mdns > mdns.mcast.net.mdns: 0 AAAA (QU)? wpad.local. (28)
+14:08:21.036992 eth0  M   IP6 fe80::46c1:23c9:4ebc:e1d7.mdns > ff02::fb.mdns: 0 AAAA (QU)? wpad.local. (28)
+14:08:21.411249 eth0  M   IP LuNgoma.mshome.net.mdns > mdns.mcast.net.mdns: 0 A (QM)? wpad.local. (28)
+14:08:21.413731 eth0  M   IP6 fe80::46c1:23c9:4ebc:e1d7.mdns > ff02::fb.mdns: 0 A (QM)? wpad.local. (28)
+14:08:21.425361 eth0  M   IP LuNgoma.mshome.net.mdns > mdns.mcast.net.mdns: 0 AAAA (QM)? wpad.local. (28)
+14:08:21.427932 eth0  M   IP6 fe80::46c1:23c9:4ebc:e1d7.mdns > ff02::fb.mdns: 0 AAAA (QM)? wpad.local. (28)
+14:08:21.793377 eth0  M   IP LuNgoma.mshome.net.mdns > mdns.mcast.net.mdns: 0 A (QM)? wpad.local. (28)
+14:08:21.794401 eth0  M   IP6 fe80::46c1:23c9:4ebc:e1d7.mdns > ff02::fb.mdns: 0 A (QM)? wpad.local. (28)
+14:08:21.808755 eth0  M   IP LuNgoma.mshome.net.mdns > mdns.mcast.net.mdns: 0 AAAA (QU)? wpad.local. (28)
+14:08:21.811328 eth0  M   IP6 fe80::46c1:23c9:4ebc:e1d7.mdns > ff02::fb.mdns: 0 AAAA (QU)? wpad.local. (28)
+14:08:34.911714 eth0  Out IP 172.18.160.107.35078 > prod-ntp-4.ntp1.ps5.canonical.com.ntp: NTPv4, Client, length 48
+14:08:35.188160 eth0  In  IP prod-ntp-4.ntp1.ps5.canonical.com.ntp > 172.18.160.107.35078: NTPv4, Server, length 48
+14:08:42.389760 eth0  In  ARP, Request who-has 172.18.160.107 (00:15:5d:c6:5c:b1 (oui Unknown)) tell LuNgoma.mshome.net, length 28
+14:08:42.389846 eth0  Out ARP, Reply 172.18.160.107 is-at 00:15:5d:c6:5c:b1 (oui Unknown), length 28
+14:08:43.067215 eth0  Out ARP, Request who-has LuNgoma.mshome.net tell 172.18.160.107, length 28
+14:08:43.067401 eth0  In  ARP, Reply LuNgoma.mshome.net is-at 00:15:5d:4c:83:21 (oui Unknown), length 28
+14:09:10.365238 eth0  Out IP 172.18.160.107.53193 > prod-ntp-4.ntp1.ps5.canonical.com.ntp: NTPv4, Client, length 48
+14:09:10.619469 eth0  In  IP prod-ntp-4.ntp1.ps5.canonical.com.ntp > 172.18.160.107.53193: NTPv4, Server, length 48
+14:09:18.495764 eth0  Out ARP, Request who-has LuNgoma.mshome.net tell 172.18.160.107, length 28
+14:09:18.495966 eth0  In  ARP, Reply LuNgoma.mshome.net is-at 00:15:5d:4c:83:21 (oui Unknown), length 28
